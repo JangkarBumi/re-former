@@ -1,3 +1,7 @@
-# README
+### Re-former
 
-This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it at http://www.theodinproject.com
+In this project we learn about forms in ruby on rails
+
+### Contributors:
+* [Valentino Valenti](https://github.com/1ba1)
+* [Zeha Irawan](https://github.com/JangkarBumi)
