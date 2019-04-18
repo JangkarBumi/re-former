@@ -5,5 +5,8 @@ linters:
 files:
   ignore:
     - 'db/schema.rb'
-   
+    - 'Gemfile'
+    - 'bin/setup'
+    - 'bin/update'
+    - 'test/test_helper.rb'    
 
